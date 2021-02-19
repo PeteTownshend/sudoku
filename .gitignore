@@ -1,0 +1,12 @@
+.stack-work/
+*~
+.idea/
+.stack-work/
+Setup.hs
+package.yaml
+stack.yaml
+stack.yaml.lock
+*.history
+*.iml
+out/
+.vscode/
