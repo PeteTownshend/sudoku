@@ -1,3 +1,3 @@
-# Changelog for sodoku
+# Changelog for sudoku
 
 ## Unreleased changes
